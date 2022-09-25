@@ -15,4 +15,4 @@ expo start
 
 # Screen shot
 
-![This is an image](./screenshots/Screenshot_1664139244.png)
+<img src="./screenshots/Screenshot_1664139244.png" alt="Screen" width="300" height="700"/>
